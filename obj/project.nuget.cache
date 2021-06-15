@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "oZ6xWOCVIXNrsllOSAFeTyFdXs2Dx4qWlWwvfjlRvo1Rl6BqaZpsRWjZYjSK2eKFxfsEqWvn+yGT5iWCVza16g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\josep\\Desktop\\Subir a github\\ShopfyDBLibrary\\ShopfyDBLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\josep\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\josep\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\josep\\.nuget\\packages\\system.drawing.common\\5.0.2\\system.drawing.common.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

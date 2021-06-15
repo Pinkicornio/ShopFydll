@@ -1,0 +1,59 @@
+C:\Users\josepgarace\source\repos\ShopfyDBLibrary\bin\Debug\netcoreapp3.1\ShopfyDBLibrary.deps.json
+C:\Users\josepgarace\source\repos\ShopfyDBLibrary\bin\Debug\netcoreapp3.1\ShopfyDBLibrary.dll
+C:\Users\josepgarace\source\repos\ShopfyDBLibrary\bin\Debug\netcoreapp3.1\ShopfyDBLibrary.pdb
+C:\Users\josepgarace\source\repos\ShopfyDBLibrary\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\josepgarace\source\repos\ShopfyDBLibrary\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\josepgarace\source\repos\ShopfyDBLibrary\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+C:\Users\josepgarace\source\repos\ShopfyDBLibrary\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\josepgarace\source\repos\ShopfyDBLibrary\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\josepgarace\source\repos\ShopfyDBLibrary\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\josepgarace\source\repos\ShopfyDBLibrary\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\josepgarace\source\repos\ShopfyDBLibrary\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\josepgarace\source\repos\ShopfyDBLibrary\bin\Debug\netcoreapp3.1\MySql.Data.xml
+C:\Users\josepgarace\source\repos\ShopfyDBLibrary\obj\Debug\netcoreapp3.1\ShopfyDBLibrary.AssemblyInfoInputs.cache
+C:\Users\josepgarace\source\repos\ShopfyDBLibrary\obj\Debug\netcoreapp3.1\ShopfyDBLibrary.AssemblyInfo.cs
+C:\Users\josepgarace\source\repos\ShopfyDBLibrary\obj\Debug\netcoreapp3.1\ShopfyDBLibrary.csproj.CoreCompileInputs.cache
+C:\Users\josepgarace\source\repos\ShopfyDBLibrary\obj\Debug\netcoreapp3.1\ShopfyDBLibrary.csproj.CopyComplete
+C:\Users\josepgarace\source\repos\ShopfyDBLibrary\obj\Debug\netcoreapp3.1\ShopfyDBLibrary.dll
+C:\Users\josepgarace\source\repos\ShopfyDBLibrary\obj\Debug\netcoreapp3.1\ShopfyDBLibrary.pdb
+C:\Users\josepgarace\Desktop\ShopfyDBLibrary\bin\Debug\netcoreapp3.1\ShopfyDBLibrary.deps.json
+C:\Users\josepgarace\Desktop\ShopfyDBLibrary\bin\Debug\netcoreapp3.1\ShopfyDBLibrary.dll
+C:\Users\josepgarace\Desktop\ShopfyDBLibrary\bin\Debug\netcoreapp3.1\ShopfyDBLibrary.pdb
+C:\Users\josepgarace\Desktop\ShopfyDBLibrary\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\josepgarace\Desktop\ShopfyDBLibrary\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\josepgarace\Desktop\ShopfyDBLibrary\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+C:\Users\josepgarace\Desktop\ShopfyDBLibrary\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\josepgarace\Desktop\ShopfyDBLibrary\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\josepgarace\Desktop\ShopfyDBLibrary\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\josepgarace\Desktop\ShopfyDBLibrary\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\josepgarace\Desktop\ShopfyDBLibrary\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\josepgarace\Desktop\ShopfyDBLibrary\bin\Debug\netcoreapp3.1\MySql.Data.xml
+C:\Users\josepgarace\Desktop\ShopfyDBLibrary\obj\Debug\netcoreapp3.1\ShopfyDBLibrary.csprojAssemblyReference.cache
+C:\Users\josepgarace\Desktop\ShopfyDBLibrary\obj\Debug\netcoreapp3.1\ShopfyDBLibrary.AssemblyInfoInputs.cache
+C:\Users\josepgarace\Desktop\ShopfyDBLibrary\obj\Debug\netcoreapp3.1\ShopfyDBLibrary.AssemblyInfo.cs
+C:\Users\josepgarace\Desktop\ShopfyDBLibrary\obj\Debug\netcoreapp3.1\ShopfyDBLibrary.csproj.CoreCompileInputs.cache
+C:\Users\josepgarace\Desktop\ShopfyDBLibrary\obj\Debug\netcoreapp3.1\ShopfyDBLibrary.csproj.CopyComplete
+C:\Users\josepgarace\Desktop\ShopfyDBLibrary\obj\Debug\netcoreapp3.1\ShopfyDBLibrary.dll
+C:\Users\josepgarace\Desktop\ShopfyDBLibrary\obj\Debug\netcoreapp3.1\ShopfyDBLibrary.pdb
+C:\Users\josepgarace\Downloads\Proyecto terminado\ShopfyDBLibrary\bin\Debug\netcoreapp3.1\ShopfyDBLibrary.deps.json
+C:\Users\josepgarace\Downloads\Proyecto terminado\ShopfyDBLibrary\bin\Debug\netcoreapp3.1\ShopfyDBLibrary.dll
+C:\Users\josepgarace\Downloads\Proyecto terminado\ShopfyDBLibrary\bin\Debug\netcoreapp3.1\ShopfyDBLibrary.pdb
+C:\Users\josepgarace\Downloads\Proyecto terminado\ShopfyDBLibrary\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\josepgarace\Downloads\Proyecto terminado\ShopfyDBLibrary\obj\Debug\netcoreapp3.1\ShopfyDBLibrary.csprojAssemblyReference.cache
+C:\Users\josepgarace\Downloads\Proyecto terminado\ShopfyDBLibrary\obj\Debug\netcoreapp3.1\ShopfyDBLibrary.AssemblyInfoInputs.cache
+C:\Users\josepgarace\Downloads\Proyecto terminado\ShopfyDBLibrary\obj\Debug\netcoreapp3.1\ShopfyDBLibrary.AssemblyInfo.cs
+C:\Users\josepgarace\Downloads\Proyecto terminado\ShopfyDBLibrary\obj\Debug\netcoreapp3.1\ShopfyDBLibrary.csproj.CoreCompileInputs.cache
+C:\Users\josepgarace\Downloads\Proyecto terminado\ShopfyDBLibrary\obj\Debug\netcoreapp3.1\ShopfyDBLibrary.csproj.CopyComplete
+C:\Users\josepgarace\Downloads\Proyecto terminado\ShopfyDBLibrary\obj\Debug\netcoreapp3.1\ShopfyDBLibrary.dll
+C:\Users\josepgarace\Downloads\Proyecto terminado\ShopfyDBLibrary\obj\Debug\netcoreapp3.1\ShopfyDBLibrary.pdb
+C:\Users\josep\Desktop\Subir a github\ShopfyDBLibrary\bin\Debug\netcoreapp3.1\ShopfyDBLibrary.deps.json
+C:\Users\josep\Desktop\Subir a github\ShopfyDBLibrary\bin\Debug\netcoreapp3.1\ShopfyDBLibrary.dll
+C:\Users\josep\Desktop\Subir a github\ShopfyDBLibrary\bin\Debug\netcoreapp3.1\ShopfyDBLibrary.pdb
+C:\Users\josep\Desktop\Subir a github\ShopfyDBLibrary\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\josep\Desktop\Subir a github\ShopfyDBLibrary\obj\Debug\netcoreapp3.1\ShopfyDBLibrary.csprojAssemblyReference.cache
+C:\Users\josep\Desktop\Subir a github\ShopfyDBLibrary\obj\Debug\netcoreapp3.1\ShopfyDBLibrary.AssemblyInfoInputs.cache
+C:\Users\josep\Desktop\Subir a github\ShopfyDBLibrary\obj\Debug\netcoreapp3.1\ShopfyDBLibrary.AssemblyInfo.cs
+C:\Users\josep\Desktop\Subir a github\ShopfyDBLibrary\obj\Debug\netcoreapp3.1\ShopfyDBLibrary.csproj.CoreCompileInputs.cache
+C:\Users\josep\Desktop\Subir a github\ShopfyDBLibrary\obj\Debug\netcoreapp3.1\ShopfyDBLibrary.csproj.CopyComplete
+C:\Users\josep\Desktop\Subir a github\ShopfyDBLibrary\obj\Debug\netcoreapp3.1\ShopfyDBLibrary.dll
+C:\Users\josep\Desktop\Subir a github\ShopfyDBLibrary\obj\Debug\netcoreapp3.1\ShopfyDBLibrary.pdb
